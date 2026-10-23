@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T13:40:35.821Z",
+  "generated_at": "2026-10-23T07:48:31.374Z",
   "items": {
     "problem:887": {
       "kind": "problem",
@@ -141,6 +141,17 @@
       "path": "math/0230-why-scale-by-sqrt-d-k",
       "first_solved_at": "2026-10-21T13:40:35.074Z",
       "last_pushed_at": "2026-10-21T13:40:35.074Z"
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-10-23T07:48:28.066Z",
+      "last_pushed_at": "2026-10-23T07:48:28.066Z"
     }
   }
 }

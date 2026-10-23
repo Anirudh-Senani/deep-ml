@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 10 problems · 0 labs · 1 math
+**12** solved · 10 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-23 | [solution](math/0007-vector-operations) |
 | [Why Scale by sqrt(d_k)](https://www.deep-ml.com/math-problems/230) | medium | 2026-10-21 | [solution](math/0230-why-scale-by-sqrt-d-k) |
 
 ---
