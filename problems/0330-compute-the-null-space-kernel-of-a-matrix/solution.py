@@ -16,8 +16,5 @@ def compute_null_space(A: np.ndarray, tol: float = 1e-10) -> np.ndarray:
     _, s, vh = np.linalg.svd(A, full_matrices=True)
     v = vh.T.conj()
 
-    # eps = np.finfo(A.dtype).eps
-    # rank_tol = s.max() * max(A.shape) * eps
-
     rank = np.count_nonzero(s > tol)
     return v[:, rank:]

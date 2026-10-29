@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T16:19:04.401Z",
+  "generated_at": "2026-10-29T16:19:07.036Z",
   "items": {
     "problem:887": {
       "kind": "problem",
@@ -276,9 +276,9 @@
       "url": "https://www.deep-ml.com/problems/330",
       "path": "problems/0330-compute-the-null-space-kernel-of-a-matrix",
       "first_solved_at": "2026-10-29T16:18:39.997Z",
-      "last_pushed_at": "2026-10-29T16:18:39.997Z",
+      "last_pushed_at": "2026-10-29T16:18:53.620Z",
       "language": "python",
-      "lines": 24
+      "lines": 21
     }
   }
 }
