@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T20:08:32.129Z",
+  "generated_at": "2026-10-29T14:57:13.782Z",
   "items": {
     "problem:887": {
       "kind": "problem",
@@ -240,6 +240,19 @@
       "path": "math/0046-the-four-fundamental-subspaces",
       "first_solved_at": "2026-10-27T20:08:31.378Z",
       "last_pushed_at": "2026-10-27T20:08:31.378Z"
+    },
+    "problem:48": {
+      "kind": "problem",
+      "id": "48",
+      "title": "Implement Reduced Row Echelon Form (RREF) Function",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/48",
+      "path": "problems/0048-implement-reduced-row-echelon-form-rref-function",
+      "first_solved_at": "2026-10-29T14:57:13.009Z",
+      "last_pushed_at": "2026-10-29T14:57:13.009Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }
