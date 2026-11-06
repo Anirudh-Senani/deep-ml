@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**27** solved · 16 problems · 0 labs · 11 math
+**28** solved · 17 problems · 0 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Build an MLP with nn.Sequential](https://www.deep-ml.com/problems/887) | easy | 2026-09-15 | [solution](problems/0887-build-an-mlp-with-nn-sequential) |
+| [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-11-06 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-09-27 | [solution](problems/0045-linear-kernel-function) |
 | [Rejection Sampling Best-of-K Selection](https://www.deep-ml.com/problems/768) | easy | 2026-09-21 | [solution](problems/0768-rejection-sampling-best-of-k-selection) |
 | [Tensor Puzzle: Reverse a Vector](https://www.deep-ml.com/problems/1278) | easy | 2026-11-01 | [solution](problems/1278-tensor-puzzle-reverse-a-vector) |
