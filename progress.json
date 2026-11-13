@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T07:03:56.053Z",
+  "generated_at": "2026-11-13T12:57:44.483Z",
   "items": {
     "problem:887": {
       "kind": "problem",
@@ -381,6 +381,19 @@
       "last_pushed_at": "2026-11-12T07:03:55.178Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:1277": {
+      "kind": "problem",
+      "id": "1277",
+      "title": "Tensor Puzzle: Circular Roll by One",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1277",
+      "path": "problems/1277-tensor-puzzle-circular-roll-by-one",
+      "first_solved_at": "2026-11-13T12:57:43.731Z",
+      "last_pushed_at": "2026-11-13T12:57:43.731Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
